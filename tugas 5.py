@@ -3,7 +3,7 @@ print("nimAwal = 24")
 print("nimAkhir = 83")
 
 
-print("panjang = 74")
+print("panjang = 83")
 print("lebar = 24")
 
 print("hasil = 98 * panjang * lebar")
