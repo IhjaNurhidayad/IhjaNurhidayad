@@ -1,6 +1,6 @@
 # variabel assigment value 
 x = 24         
-Y = 74
+Y = 83
 print("nilai dari x adalah : ", y)
 
 # aturan penamaa variabel
